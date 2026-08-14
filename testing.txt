@@ -1,3 +1,6 @@
 mirrortesting.txt
+<<<<<<< HEAD
 welcome Pavi
 Theeran
+=======
+>>>>>>> parent of 7385c4c (pavi add)
